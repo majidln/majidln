@@ -17,6 +17,13 @@ This is Majid, React Native Developer
 
 <br />
 <br />
+<br />
+<br />
+
+
+ <img src="https://github.com/majidln/WatchStore/blob/master/screen.gif" width="187.5" height="406" />
+  
+
 
 <!--
 **majidln/majidln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
