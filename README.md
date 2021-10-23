@@ -1,10 +1,11 @@
 ### Hi there 👋
 This is Majid, React Native Developer
 
-I felt in :heart: with
+I felt in :heart:  with
 <br />
 
 <img src="https://github.com/majidln/majidln/blob/main/assets/react-native.png" align="center" width="100px" height="100px" />
+**React Native**
 
 
 <br />
